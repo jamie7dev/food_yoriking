@@ -9,7 +9,7 @@ import CustomButton from "./CustomButton";
 import useTitle from '../hooks/useTitle';
 
 const List = () => {
-  const titleUpdater = useTitle('요리킹')
+  const titleUpdater = useTitle('로딩중🫥')
 
   const navigate = useNavigate();
   const dispatch = useDispatch();
